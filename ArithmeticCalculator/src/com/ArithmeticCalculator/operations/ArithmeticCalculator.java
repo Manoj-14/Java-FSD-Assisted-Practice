@@ -10,5 +10,8 @@ public class ArithmeticCalculator {
 	public int add() {
 		return a+b;
 	}
+	public int substract() {
+		return a-b;
+	}
 	
 }
