@@ -13,5 +13,8 @@ public class ArithmeticCalculator {
 	public int substract() {
 		return a-b;
 	}
+	public int multyply() {
+		return a*b;
+	}
 	
 }
