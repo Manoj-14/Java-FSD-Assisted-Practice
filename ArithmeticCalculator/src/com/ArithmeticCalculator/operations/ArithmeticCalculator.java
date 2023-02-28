@@ -21,7 +21,7 @@ public class ArithmeticCalculator {
 			int res =  a/ b;
 			return res;
 		}catch(ArithmeticException ae) {
-			System.out.println(ae.getMessage());
+			System.out.println("Zero division error");
 		}
 		return 0;
 	}
