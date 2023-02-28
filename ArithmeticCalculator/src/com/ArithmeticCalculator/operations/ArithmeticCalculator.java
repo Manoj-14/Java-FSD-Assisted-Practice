@@ -16,5 +16,13 @@ public class ArithmeticCalculator {
 	public int multyply() {
 		return a*b;
 	}
-	
+	public int divide() {
+		try {
+			int res =  a/ b;
+			return res;
+		}catch(ArithmeticException ae) {
+			System.out.println(ae.getMessage());
+		}
+		return 0;
+	}
 }
