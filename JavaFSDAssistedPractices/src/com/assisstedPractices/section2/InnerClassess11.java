@@ -1,6 +1,6 @@
 package com.assisstedPractices.section2;
 
-public class InnerClassess211 {
+public class InnerClassess11 {
 	public static void main(String[] args) {
 		OuterClass oc = new OuterClass();
 		OuterClass.InnerClass ic = oc.new InnerClass();

@@ -1,6 +1,6 @@
 package com.assisstedPractices.section2;
 
-public class Constructors25 {
+public class Constructors5 {
 	public static void main(String[] args) {
 		Constructors c1 = new Constructors();
 		Constructors c2 = new Constructors(2,4);

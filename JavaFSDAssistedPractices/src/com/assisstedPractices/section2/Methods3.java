@@ -1,6 +1,6 @@
 package com.assisstedPractices.section2;
 
-public class Methods23 {
+public class Methods3 {
 	public static void main(String[] args) {
 		Superclass sc = new Superclass();
 		sc.method1();

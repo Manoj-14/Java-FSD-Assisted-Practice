@@ -1,6 +1,6 @@
 package com.assisstedPractices.section1;
 
-public class AccessModifiers15 {
+public class AccessModifiers5 {
 	public static void main(String[] args) {
 		
 		SuperClass.defaultMethod();

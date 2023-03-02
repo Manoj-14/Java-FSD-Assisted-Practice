@@ -1,6 +1,6 @@
 package com.assisstedPractices.section2;
 
-public class Arrays215 {
+public class Arrays15 {
 	public static void main(String[] args) {
 		intArray();
 		System.out.println();

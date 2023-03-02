@@ -1,6 +1,6 @@
 package com.assisstedPractices.section1;
 
-public class TypeCasting13 {
+public class TypeCasting3 {
 	public static void main(String[] args) {
 		System.out.println("Implicit Casting:");
 		implicitCasting();

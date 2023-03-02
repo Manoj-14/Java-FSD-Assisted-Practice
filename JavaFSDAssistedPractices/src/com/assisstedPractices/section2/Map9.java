@@ -7,7 +7,7 @@ import java.util.Map;
 import java.util.SortedMap;
 import java.util.TreeMap;
 
-public class Map29 {
+public class Map9 {
 
 	public static void main(String[] args) {
 		hashMap();

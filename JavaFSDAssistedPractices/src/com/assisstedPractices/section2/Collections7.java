@@ -12,7 +12,7 @@ import java.util.TreeSet;
 import java.util.Vector;
 
 
-public class Collections27 {
+public class Collections7 {
 	public static void main(String[] args) {
 		System.out.println("Array List");
 		arrayList();
