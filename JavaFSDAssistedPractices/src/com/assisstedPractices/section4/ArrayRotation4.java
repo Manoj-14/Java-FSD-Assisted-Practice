@@ -2,7 +2,7 @@ package com.assisstedPractices.section4;
 
 import java.util.Arrays;
 
-public class ArrayRotation {
+public class ArrayRotation4 {
 	public static int[] rotateClockWise(int arr[],int k) {
 		if(k>arr.length) k = k % arr.length ;
 		int res[] = new int[arr.length];
